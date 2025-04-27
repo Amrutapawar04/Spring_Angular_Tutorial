@@ -1,6 +1,6 @@
-# Spring Boot + Angular 15 + PostgreSQL example: CRUD App
+# Spring Boot + Angular 17 + PostgreSQL example: CRUD App
 
-We will build a full-stack Angular 15 and Spring Boot PostgreSQL CRUD Tutorial Application in that:
+We will build a full-stack Angular 17 and Spring Boot PostgreSQL CRUD Tutorial Application in that:
 * Each Tutorial has id, title, description, published status.
 * We can create, retrieve, update, delete Tutorials.
 * We can also find Tutorials by title.
@@ -8,33 +8,43 @@ We will build a full-stack Angular 15 and Spring Boot PostgreSQL CRUD Tutorial A
 ## The images below shows screenshots of our System.
 
 **– Add Tutorial:**
+
+![add 1](https://github.com/user-attachments/assets/76c876e1-55db-48f9-9e90-8bec89caa67e)
+
 **– Retrieve Tutorials:**
+![edit](https://github.com/user-attachments/assets/45cc58e4-fbc2-4c58-9455-63a10842e9f8)
+
+
 **– Click on Edit button to go to a Tutorial page:**
 **On this Page, you can:**
+![update](https://github.com/user-attachments/assets/1c22174d-a402-47e3-8001-48881ce33cab)
 
 * change status to Published using Publish button
 * delete the Tutorial using Delete button
 * update the Tutorial details with Update button
 
 **– Search Tutorials by title:**
+![home page ](https://github.com/user-attachments/assets/cc2608dc-b0a3-4a01-9077-278d329dd72c)
 
-**– PostgreSQL database table looks like this:**
+
 
 
 ### Technology
 
 The things you need before installing the software.
 
-* Java 17 / 11 / 8
-* Spring Boot 3 / 2 (with Spring Web MVC, Spring Data JPA)
+* Java 17 
+* Spring Boot 3 (with Spring Web MVC, Spring Data JPA)
 * PostgreSQL
 * Maven
-* Angular 15
+* Angular 17
 * Angular HttpClient
 * Angular Router
 * Bootstrap 4
 
 ### Project Structure
+
+![Screenshot 2025-04-27 130825](https://github.com/user-attachments/assets/f2535010-a9b8-4aa2-85cc-0e277fc1b22b)
 
 A step by step guide that will tell you how to get the development environment up and running.
 
