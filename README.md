@@ -48,18 +48,16 @@ The things you need before installing the software.
 
 A step by step guide that will tell you how to get the development environment up and running.
 
-
-$ -tutorial.model.ts exports the main class model: Tutorial.
-$ – There are 3 components: tutorials-list, tutorial-details, add-tutorial.
-$ – tutorial.service has methods for sending HTTP requests to the Apis.
-$ – app-routing.module.ts defines routes for each component.
-$ – app component contains router view and navigation bar.
-$ – app.module.ts declares Angular components and import necessary modu
-
+* -tutorial.model.ts exports the main class model: Tutorial.
+* – There are 3 components: tutorials-list, tutorial-details, add-tutorial.
+* – tutorial.service has methods for sending HTTP requests to the Apis.
+* – app-routing.module.ts defines routes for each component.
+* – app component contains router view and navigation bar.
+* – app.module.ts declares Angular components and import necessary module
 
 
 ## Deployment
-You can run this App with command: les.
+You can run this App with command:
 ```ng serve --port 8081.
 If the process is successful, open Browser with ``Url: http://localhost:8081/ and check it.
 
