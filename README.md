@@ -59,6 +59,6 @@ A step by step guide that will tell you how to get the development environment u
 ## Deployment
 You can run this App with command:
 ```ng serve --port 8081.
-If the process is successful, open Browser with ``Url: http://localhost:8081/ and check it.
+If the process is successful, open Browser with ``Url: http://localhost:4200/ and check it.
 
 
